@@ -1,4 +1,4 @@
-# PortfolioJakubRackowski
+# PortfolioJakubR
 
 # [Projekt 1 - Porównanie modeli klasyfikacyjnych na podstawie danych z firmy ubezpieczeniowej](https://github.com/TheLordWeirdSloughFeg/proj_modele)
 Moje portfolio
