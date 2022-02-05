@@ -10,5 +10,5 @@ Moje portfolio
 Moje portfolio
 # [Projekt 5 - Wycena samochodów marki Volkswagen w oparciu o dane z OtoMoto](https://github.com/TheLordWeirdSloughFeg/proj_wyc_VW_oto_moto)
 Moje portfolio
-# [Projekt 6 - Aktorzy i numerologia - Czy Twoja data urodzenia pozwoli dostanie się do top 500 najlepiej ocenianych ludzi filmu?](https://github.com/TheLordWeirdSloughFeg/proj_bad_numer)
+# [Projekt 6 - Aktorzy i numerologia - Czy Twoja data urodzenia pozwoli dostać się do top 500 najlepiej ocenianych ludzi filmu?](https://github.com/TheLordWeirdSloughFeg/proj_bad_numer)
 Moje portfolio
