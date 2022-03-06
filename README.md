@@ -2,7 +2,13 @@
 
 # [Projekt 1 - Porównanie modeli klasyfikacyjnych na podstawie danych z firmy ubezpieczeniowej](https://github.com/TheLordWeirdSloughFeg/proj_modele)
 
-Moim zleceniodawcą jest towarzystwo ubezpieczeniowe, które zapewniło swoim klientom ubezpieczenie zdrowotne. Celem jest zbudowanie modelu w oparciu o uczenie maszynowe pozwalającego przewidzieć, czy klient byłby zainteresowany ubezpieczeniem pojazdów oraz dokonanie odpowiedniej klasyfikacji ubezpieczonych firmy TU przy użyciu algorytmów uczenia maszynowego, po odpowiednim zanalizowaniu bazy klientów i wybraniu jednego z algorytmów.
+<p align="center">
+  <img src="https://github.com/TheLordWeirdSloughFeg/proj_klasyf_kom/blob/main/roc_azure.jpg" />
+</p>
+
+Moim zleceniodawcą jest towarzystwo ubezpieczeniowe, które zapewniło swoim klientom ubezpieczenie zdrowotne. 
+
+Celem jest zbudowanie modelu w oparciu o uczenie maszynowe pozwalającego przewidzieć, czy klient byłby zainteresowany ubezpieczeniem pojazdów oraz dokonanie odpowiedniej klasyfikacji ubezpieczonych firmy ubezpieczeniowej przy użyciu algorytmów uczenia maszynowego, po odpowiednim zanalizowaniu bazy klientów.
 <br/>
 
 # [Projekt 2 - Klasyfikacja komentarzy internetowych dla sklepu Amazon za pomocą regresji logistycznej i analizy NLP - Projekt w MS Azure](https://github.com/TheLordWeirdSloughFeg/proj_klasyf_kom)
