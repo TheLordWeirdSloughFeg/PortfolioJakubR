@@ -39,7 +39,7 @@ Firma specjalizująca się w analizach laboratoryjnych dla szpitali zleciła mi 
 
 # [Projekt 5 - Wycena samochodów marki Volkswagen w oparciu o dane z OtoMoto](https://github.com/TheLordWeirdSloughFeg/proj_wyc_VW_oto_moto)
 <p align="center">
-  <img src="https://github.com/TheLordWeirdSloughFeg/PortfolioJakubR/blob/main/Obrazki/estim.png"  width="500" height="300" />
+  <img src="https://github.com/TheLordWeirdSloughFeg/PortfolioJakubR/blob/main/Obrazki/estim.png"  width="400" height="300" />
 </p>
 Firma zajmująca się sprzedażą używanych samochodów zleciła mi zaprojektowanie aplikacji do wyceny samochodów marki Volkswagen, która pomoże osobom chcącym szybko sprzedać samochód tej marki. Aplikacja musi być interaktywna i wygodna w użytkowaniu, tak, aby można było określać poszczególne szczegóły techniczne takie jak: rok produkcji, przebieg itp. mające wpływ na cenę pojazdu.
 
