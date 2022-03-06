@@ -3,7 +3,7 @@
 # [Projekt 1 - Porównanie modeli klasyfikacyjnych na podstawie danych z firmy ubezpieczeniowej](https://github.com/TheLordWeirdSloughFeg/proj_modele)
 
 <p align="center">
-  <img src="https://github.com/TheLordWeirdSloughFeg/proj_klasyf_kom/blob/main/roc_azure.jpg"  width="500" height="600" />
+  <img src="https://github.com/TheLordWeirdSloughFeg/PortfolioJakubR/blob/main/roc_azure.jpg"  width="600" height="400" />
 </p>
 
 Moim zleceniodawcą jest towarzystwo ubezpieczeniowe, które zapewniło swoim klientom ubezpieczenie zdrowotne. 
