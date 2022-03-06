@@ -24,7 +24,7 @@ Celem jest wdrożenie odpowiednich metod uczenia maszynowego na platformie MS Az
 # [Projekt 3 - Wykrywanie dronów na obrazach z kamer CCTV przy użyciu algorytmu YOLOv5](https://github.com/TheLordWeirdSloughFeg/proj_wykr_dron)
 
 <p align="center">
-  <img src="https://github.com/TheLordWeirdSloughFeg/PortfolioJakubR/blob/main/Obrazki/anti-drone.jpg"  width="500" height="300" />
+  <img src="https://github.com/TheLordWeirdSloughFeg/PortfolioJakubR/blob/main/Obrazki/anti-drone.jpg"  width="400" height="300" />
 </p>
 Firma współpracująca z miastem Stołecznym Warszawa projektuje system wykrywania dronów w obrębie stref z zakazem lotów dronami tzw. No Drone Zone. Firma powierzyła mi opracowanie detekcji dronów na podstawie zdjęć z kamer CCTV w obrębie wydzielonych stref No Drone Zone. Celem jest detekcja dronów za pomocą odpowiednio dobranego algorytmu wykrywania obrazów, co pozwoli na rozwinięcie systemu powiadamiania służb o ewentualnych nieautoryzowanych przelotach.
 <br/>
