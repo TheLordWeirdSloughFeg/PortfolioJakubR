@@ -14,7 +14,7 @@ Celem jest zbudowanie modelu w oparciu o uczenie maszynowe pozwalającego przewi
 # [Projekt 2 - Klasyfikacja komentarzy internetowych dla sklepu Amazon za pomocą regresji logistycznej i analizy NLP - Projekt w MS Azure](https://github.com/TheLordWeirdSloughFeg/proj_klasyf_kom)
 
 <p align="center">
-  <img src="https://github.com/TheLordWeirdSloughFeg/PortfolioJakubR/blob/main/Obrazki/amazn.jpg"  width="500" height="300" />
+  <img src="https://github.com/TheLordWeirdSloughFeg/PortfolioJakubR/blob/main/Obrazki/amzn.jpg"  width="500" height="300" />
 </p>
 
 Firma Amazon posiadająca największy na świecie sklep internetowy potrzebuje analizy komentarzy użytkowników, aby dopasować swoją ofertę do wymagań klientów.
