@@ -46,5 +46,8 @@ Firma zajmująca się sprzedażą używanych samochodów zleciła mi zaprojektow
 <br/>
 
 # [Projekt 6 - Aktorzy i numerologia - Czy Twoja data urodzenia pozwoli dostać się do top 500 najlepiej ocenianych ludzi filmu?](https://github.com/TheLordWeirdSloughFeg/proj_bad_numer)
+<p align="center">
+  <img src="https://github.com/TheLordWeirdSloughFeg/PortfolioJakubR/blob/main/Obrazki/NUMEROLOGY.jpg"  width="500" height="300" />
+</p>
 
 Moim celem było zbadanie teorii pseudonaukowej jaką jest numerologia, opierając się na założeniu, że można przewidywać los człowieka na podstawie daty urodzenia oraz imienia i nazwiska. Za pomocą algorytmów uczenia maszynowego starałem się określić czy dana osoba, na podstawie daty urodzenia oraz imienia i nazwiska, jest np. sławnym aktorem, kompozytorem lub reżyserem. Określenie "sławny" tyczyło się osoby związanej z przemysłem filmowym, która znajduje się na liście top 500 najlepszych aktorów, aktorek, kompozytorów i reżyserów z portalu Filmweb.pl.
